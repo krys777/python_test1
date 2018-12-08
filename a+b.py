@@ -1,6 +1,5 @@
 
 class test:
-
   
   p=5
 
