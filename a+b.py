@@ -18,6 +18,8 @@ class test:
 
     return([n,k])
 
+def BlahFunc():
+  #hi hi 
 
 def main():
 
